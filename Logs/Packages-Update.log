@@ -1,0 +1,8 @@
+
+=== Thu Mar 18 17:59:26 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
